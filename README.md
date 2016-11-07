@@ -40,6 +40,5 @@ The text files will be saved under "Web_Crawler_RB\dist\RepostioryName_EnteredBy
 ii) The normal way to run this crawler is to install python in your machine save all python file in a folder and update your Python with python libraries described in point no 2 and then compile main.py , a Tkinter GUI will pop up and fill the information and then click "start Crawling".
 5) Conclusion
 --------------------
-I have written this code in seperate files which are interrelated, I tried my best to write a clean code so that more functionalities can be added easily without messing up whole code in future.
-At last I would say that so many other functionalities can be added in this python code and both User Interface and User Experience can be improved further.
+I tried my best to write a clean code so that more functionalities can be added easily without messing up whole code in future. At last I would say that so many other functionalities can be added in this python code and both User Interface and User Experience can be improved further.
 
